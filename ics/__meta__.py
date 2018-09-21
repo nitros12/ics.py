@@ -1,4 +1,4 @@
-__title__ = 'ics'
+__title__ = 'ics_lancstimtab'
 __version__ = '0.5.dev0'
 __author__ = 'Nikita Marchant'
 __license__ = 'Apache License, Version 2.0'

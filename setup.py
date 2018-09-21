@@ -55,12 +55,12 @@ setup(
         'Programming Language :: Python :: 3.6',
 
     ],
-    url='http://github.com/C4ptainCrunch/ics.py',
+    url='http://github.com/nitros12/ics.py',
     author=__author__,
     author_email='nikita.marchant@gmail.com',
     install_requires=[
         "python-dateutil",
-        "arrow==0.4.2",
+        "arrow==0.12.1",
         "six>1.5",
     ],
     license=__license__,
